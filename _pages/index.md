@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/Headshot.jpg
     alt: "Profesional headshot"
     title: "Profesional headshot"
-    excerpt: "**RAHAHAHAH**"
+    excerpt: "**RAHAHAHAHAHAHAHAHAHAHAHAHA**"
   - image_path: /assets/images/Headshot.JPG
     alt: "placeholder image 2"
     title: "Placeholder 2"
