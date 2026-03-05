@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/placeholder.png
+  overlay_image: Headshot.png
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
@@ -16,18 +16,18 @@ excerpt: "You can add text here."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
-  - image_path: /assets/images/headshot.png
+  - image_path: Headshot.png
     alt: "Profesional headshot"
     title: "Profesional headshot"
     excerpt: "**RAHAHAHAHAHAHAHAHAHAHAHAHA**"
-  - image_path: /assets/images/Headshot.png
+  - image_path: Headshot.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Headshot.png
+  - image_path: Headshot.png
     alt: "placeholder image 4"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
