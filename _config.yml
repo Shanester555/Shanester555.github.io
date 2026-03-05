@@ -3,10 +3,10 @@ title: "Student Portfolio" # Site title shown in the browser and header
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
-name: "Therese Charles"
-url: "https://ShaneCollum.github.io" # Your GitHub Pages domain
+name: "Shane Collum"
+url: "https://Shanester555.github.io" # Your GitHub Pages domain
 baseurl: "" # Repo name if site is in a project repo, blank for user/org site
-locale: "en-GB" # Language/region
+locale: "en-US" # Language/region
 logo: "/assets/images/logo-placeholder.png" # path of logo image to display in the masthead
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 copyright: # "copyright" name, defaults to site.title
