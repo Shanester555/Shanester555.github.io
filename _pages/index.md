@@ -18,8 +18,8 @@ intro:
 feature_row:
   - image_path: Headshot.png
     alt: "Profesional headshot"
-    title: "Profesional headshot"
-    excerpt: "**RAHAHAHAHAHAHAHAHAHAHAHAHA**"
+    title: "More about me"
+    excerpt: "General informaion about me and my skills"
   - image_path: Screenshot 2026-03-19 141820.png
     alt: "Scrapyard Scramble"
     title: "Scrapyard Scramble"
