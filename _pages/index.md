@@ -20,7 +20,7 @@ feature_row:
     alt: "Profesional headshot"
     title: "More about me"
     excerpt: "General informaion about me and my skills"
-  - image_path: Screenshot 2026-03-19 141820.png
+  - image_path: assets/images/Screenshot 2026-03-19 141820.png
     alt: "Scrapyard Scramble"
     title: "Scrapyard Scramble"
     excerpt: "This was the game I developed during my first semester at university"
