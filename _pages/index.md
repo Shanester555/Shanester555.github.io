@@ -20,10 +20,10 @@ feature_row:
     alt: "Profesional headshot"
     title: "Profesional headshot"
     excerpt: "**RAHAHAHAHAHAHAHAHAHAHAHAHA**"
-  - image_path: Headshot.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: Screenshot 2026-03-19 141820.png
+    alt: "Scrapyard Scramble"
+    title: "Scrapyard Scramble"
+    excerpt: "This was the game I developed during my first semester at university"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
