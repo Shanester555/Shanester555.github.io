@@ -16,7 +16,7 @@ excerpt: "You can add text here."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
-  - image_path: Headshot.png
+  - image_path: assets/images/Headshot.png
     alt: "Profesional headshot"
     title: "More about me"
     excerpt: "General informaion about me and my skills"
