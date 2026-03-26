@@ -14,7 +14,7 @@ You can use this page to show a reel of all projects and then have a separate pa
 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
-<div style="flex:1 1 1000px; min-width:1000px;">
+<div style="flex:1 1 100px; min-width:100px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 As part of a team, I helped design and build a 2D Platform game for my course
@@ -22,7 +22,7 @@ in module CRE135: 2D Game Creation.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
-<div style="flex:1 1 250px; min-width:250px;">
+<div style="flex:1 1 100px; min-width:100px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="dQw4w9WgXcQ" provider="youtube" %}
 </div>
