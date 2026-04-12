@@ -20,6 +20,9 @@ feature_row:
     alt: "Profesional headshot"
     title: "More about me"
     excerpt: "General informaion about me and my skills"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    url: "/about-me/"
   - image_path: assets/images/Screenshot 2026-03-19 141820.png
     alt: "Scrapyard Scramble"
     title: "Scrapyard Scramble"
@@ -32,6 +35,9 @@ feature_row:
     alt: "placeholder image 4"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    url: "/contact-me/"
 ---
 
 {% include feature_row id="intro" type="center" %}
