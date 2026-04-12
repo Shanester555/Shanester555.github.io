@@ -39,6 +39,31 @@ game I made for the global game jam 2026
   class="btn--primary"
 %}
 
+## Global game jam
+game I made for the global game jam 2026
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include button
+  url="/projects-global-game-jam/"
+  label="View Project"
+  class="btn--primary"
+%}
 
+## Global game jam
+game I made for the global game jam 2026
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include button
+  url="/projects-global-game-jam/"
+  label="View Project"
+  class="btn--primary"
+%}
+
+## Global game jam
+game I made for the global game jam 2026
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include button
+  url="/projects-global-game-jam/"
+  label="View Project"
+  class="btn--primary"
+%}
 
 
