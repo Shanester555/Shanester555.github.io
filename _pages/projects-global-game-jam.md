@@ -7,5 +7,23 @@ sidebar:
   nav:
     - projects
 
+gallery_global_game_jam:
+  # Recommended: width "240px" to "320px" keeps a neat grid
+  - url: /assets/images/placeholder.png
+    image_path: /assets/images/placeholder.png
+    alt: "Gameplay 1"
+    title: "GGJ"
+    caption: "Core loop"
+  - url: /assets/images/placeholder.png
+    image_path: /assets/images/placeholder.png
+    alt: "Gameplay 2"
+    title: "Challenge"
+    caption: "Challenge"
+  - url: /assets/images/placeholder.png
+    image_path: /assets/images/placeholder.png
+    alt: "Gameplay 3"
+    title: "Power-ups"
+    caption: "Power"
+
 ---
-This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
+
