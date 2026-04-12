@@ -17,10 +17,8 @@ You can use this page to show a reel of all projects and then have a separate pa
 As part of a team, I helped design and build a 2D Platform game for my course
 in module CRE135: 2D Game Creation.
 </p>
-</div>
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="dQw4w9WgXcQ" provider="youtube" %}
-</div>
 </div>
 
 
