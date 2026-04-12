@@ -1,11 +1,9 @@
 ---
-title: "Pages"
-layout: single
-permalink: /pages/
+title: "About Me"
+layout: default
+permalink: /about-me/
 sidebar:
-  title: "Page Templates"
-  nav:
-    - pages
+  title: "About Me"
 ---
 
 This section shows each available layout template so students can compare them.
