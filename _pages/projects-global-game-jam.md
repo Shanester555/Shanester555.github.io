@@ -27,3 +27,9 @@ gallery_global_game_jam:
 
 ---
 
+1. [Text](#text)
+2. [Hyperlink](#hyperlink)
+3. [Quote](#quote)
+4. [Logo](#logo)
+
+## 1. 
