@@ -7,7 +7,7 @@ sidebar:
   nav:
     - projects
 
-gallery_global_game_jam:
+gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
@@ -27,9 +27,15 @@ gallery_global_game_jam:
 
 ---
 
-1. [Text](#text)
-2. [Hyperlink](#hyperlink)
-3. [Quote](#quote)
-4. [Logo](#logo)
+1. [Overview](#overview)
+2. [Roles](#roles)
+3. [Development](#development)
+4. [Link](#link)
 
-## 1. 
+## 1. Overview {#overview}
+
+## 2. Roles {#roles}
+
+## 3. Development {#development}
+
+## 4. Link {#link}
