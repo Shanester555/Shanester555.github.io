@@ -20,11 +20,6 @@ feature_row:
     alt: "Profesional headshot"
     title: "More about me"
     excerpt: "General informaion about me and my skills"
-    {% include button
-    url="/projects/"
-    label="View All Projects"
-    class="btn--primary"
-    %}
   - image_path: assets/images/Screenshot 2026-03-19 141820.png
     alt: "Scrapyard Scramble"
     title: "Scrapyard Scramble"
@@ -32,15 +27,11 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    url="/projects/"
   - image_path: Headshot.png
     alt: "placeholder image 4"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    {% include button
-    url="/projects/"
-    label="View All Projects"
-    class="btn--primary"
-    %}
 ---
 
 {% include feature_row id="intro" type="center" %}
