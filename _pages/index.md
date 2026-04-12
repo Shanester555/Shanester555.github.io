@@ -27,7 +27,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    url: ="/projects/"
+    url: "/projects/"
   - image_path: Headshot.png
     alt: "placeholder image 4"
     title: "Placeholder 3"
