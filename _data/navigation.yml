@@ -5,7 +5,7 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
+      - title: "Gamer"
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
