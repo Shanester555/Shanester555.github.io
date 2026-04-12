@@ -5,12 +5,14 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Gamer"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
       - title: "Global Game Jam"
         url: /projects/global-game-jam/
+      - title: "2D group project"
+        url: /projects/2D-group-game-semester-2/
+      - title: "3D art project"
+        url: /projects/3D-game-semester-1/
+      - title: "2D game"
+        url: /projects/2D-game-semester-1/
   - title: "Pages"
     url: /pages/
     children:
@@ -26,12 +28,14 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
   - title: "Global Game Jam"
     url: /projects-global-game-jam/
+  - title: "2D group project"
+    url: /projects-2D-group-game-semester-2/
+  - title: "3D art project"
+    url: /projects-3D-game-semester-1/
+  - title: "2D game"
+    url: /projects-2D-game-semester-1/
 
 # Sidebar menu for the Pages page
 pages:
