@@ -19,7 +19,6 @@ in module CRE135: 2D Game Creation.
 </p>
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="dQw4w9WgXcQ" provider="youtube" %}
-</div>
 
 
 
