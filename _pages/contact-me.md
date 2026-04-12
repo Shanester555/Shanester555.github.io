@@ -1,7 +1,7 @@
 ---
 title: "Contact me"
 layout: default
-permalink: /pages/contact-me/
+permalink: /contact-me/
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
