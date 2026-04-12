@@ -9,6 +9,8 @@ main:
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
+      - title: "Global Game Jam"
+        url: /projects/global-game-jam/
   - title: "Pages"
     url: /pages/
     children:
