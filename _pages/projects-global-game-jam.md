@@ -30,7 +30,7 @@ gallery_gameplay:
 1. [Overview](#overview)
 2. [Roles](#roles)
 3. [Development](#development)
-4. [Link](#link)
+4. [Link/Video](#link)
 
 ## 1. Overview {#overview}
 
@@ -38,4 +38,5 @@ gallery_gameplay:
 
 ## 3. Development {#development}
 
-## 4. Link {#link}
+## 4. Link/Video {#link}
+{% include video id="dQw4w9WgXcQ" provider="youtube" %}
