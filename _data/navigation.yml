@@ -13,15 +13,10 @@ main:
         url: /projects/3D-game-semester-1/
       - title: "2D game"
         url: /projects/2D-game-semester-1/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
+  - title: "About Me"
+    url: /about-me/
+  - title: "Contact Me"
+    url: /contact-me/
   - title: "Components"
     url: /components/
  
@@ -36,12 +31,3 @@ projects:
     url: /projects-3D-game-semester-1/
   - title: "2D game"
     url: /projects-2D-game-semester-1/
-
-# Sidebar menu for the Pages page
-pages:
-  - title: "Default Layout"
-    url: /pages/default/
-  - title: "Single Layout"
-    url: /pages/single/
-  - title: "Splash Layout"
-    url: /pages/splash/
