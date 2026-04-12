@@ -4,15 +4,14 @@ main:
     url: /
   - title: "Projects"
     url: /projects/
-    children:
-      - title: "Global Game Jam"
-        url: /projects/global-game-jam/
-      - title: "2D group project"
-        url: /projects/2D-group-game-semester-2/
-      - title: "3D art project"
-        url: /projects/3D-game-semester-1/
-      - title: "2D game"
-        url: /projects/2D-game-semester-1/
+  - title: "Global Game Jam"
+    url: /projects/global-game-jam/
+  - title: "2D group project"
+    url: /projects/2D-group-game-semester-2/
+  - title: "3D art project"
+    url: /projects/3D-game-semester-1/
+  - title: "2D game"
+    url: /projects/2D-game-semester-1/
   - title: "Pages"
     url: /pages/
     children:
