@@ -1,7 +1,7 @@
 ---
 title: "Global game jam"
 layout: single
-permalink: /projects/global-game-jam/
+permalink: /projects-global-game-jam/
 sidebar:
   title: "Projects"
   nav:
