@@ -56,7 +56,7 @@ footer: # Site footer
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/"
       target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
