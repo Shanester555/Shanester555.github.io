@@ -32,8 +32,12 @@ You can use this page to show a reel of all projects and then have a separate pa
 
 ## 9. Video - Look at the `video` include to see how it handles vidoes from different sources. Also be mindful to only extract and use the `video id`.  {#video}
 Let's talk about the Rick Roll phenomena...
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include button
+  url="/projects/"
+  label="View All Projects"
+  class="btn--primary"
+%}
 
 
 
