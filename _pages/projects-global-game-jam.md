@@ -45,4 +45,4 @@ Next was working on the enemies. I decided to make a small variety of them that 
 I then wanted to make an end goal for the game. 
 
 ## 3. Link {#link}
-<a href="https://www.example.com](https://globalgamejam.org/games/2026/growth-n-guns-0" target="_blank" rel="noopener noreferrer">Guns n' Growth - Global Game Jam Site</a>
+<a href="[https://www.example.com](https://globalgamejam.org/games/2026/growth-n-guns-0](https://globalgamejam.org/games/2026/growth-n-guns-0)" target="_blank" rel="noopener noreferrer">Guns n' Growth - Global Game Jam Site</a>
