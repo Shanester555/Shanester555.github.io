@@ -1,6 +1,7 @@
 ---
 title: "Semester 1 2D"
 layout: single
+classes: wide
 permalink: /projects-2D-game-semester-1/
 sidebar:
   title: "Projects"
