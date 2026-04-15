@@ -3,8 +3,7 @@ title: "Global game jam"
 layout: single
 classes: wide
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_sticky: true
 permalink: /projects-global-game-jam/
 sidebar:
   title: "Projects"
