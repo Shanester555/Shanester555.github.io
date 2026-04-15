@@ -23,11 +23,11 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Global Game Jam"
+  - title: "Guns n' Growth"
     url: /projects-global-game-jam/
-  - title: "2D group project"
+  - title: "Kackle Kastle"
     url: /projects-2D-group-game-semester-2/
+  - title: "Scrapyard Scramble"
+    url: /projects-2D-game-semester-1/
   - title: "3D art project"
     url: /projects-3D-game-semester-1/
-  - title: "2D game"
-    url: /projects-2D-game-semester-1/
