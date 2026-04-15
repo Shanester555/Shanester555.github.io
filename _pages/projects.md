@@ -80,12 +80,8 @@ gallery_2D_game:
     caption: "Power"
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
-
-You can use this page to show a reel of all projects and then have a separate page for each project.
-
 ## Global game jam
-game I made for the global game jam 2026
+I participated in the Global Game Jam 2026, going to the Ulster University Magee site. A week was spent developing a 2D horde survival game in Godot using the "mask" theme.
 {% include gallery id="gallery_global_game_jam" layout="third" thumb_height="180px" %}
 {% include button
   url="/projects-global-game-jam/"
@@ -94,7 +90,7 @@ game I made for the global game jam 2026
 %}
 
 ## Group game
-game I made with a team of 3 others for university
+A game I developed with 3 other students during my second semester of my first year at university. Over the course of 12 weeks we made a 2D horde survival game in unity, where you have to survive a rogue group of jesters attacking the castle's treasury.
 {% include gallery id="gallery_group_game" layout="third" thumb_height="180px" %}
 {% include button
   url="/projects-2D-group-game-semester-2/"
@@ -102,20 +98,20 @@ game I made with a team of 3 others for university
   class="btn--primary"
 %}
 
-## 3D game
-game I made for the 3D art module for uni
-{% include gallery id="gallery_3D_game" layout="third" thumb_height="180px" %}
+## 2D game
+A 2D game I developed for my first semester of my first year at university. It's a small scale metroidvania including a fully designed area with branching paths and plenty of secrets and permanent upgrades for the player to find.
+{% include gallery id="gallery_2D_game" layout="third" thumb_height="180px" %}
 {% include button
-  url="/projects-3D-game-semester-1/"
+  url="/projects-2D-game-semester-1/"
   label="View Project"
   class="btn--primary"
 %}
 
-## 2D game
-game I made for the 2D game module for uni
-{% include gallery id="gallery_2D_game" layout="third" thumb_height="180px" %}
+## 3D game
+A 3D game I developed for my first semester of my first year at university. It was made to show my skills greyboxxing a 3D environment as well as develop my skills with probuilder.
+{% include gallery id="gallery_3D_game" layout="third" thumb_height="180px" %}
 {% include button
-  url="/projects-2D-game-semester-1/"
+  url="/projects-3D-game-semester-1/"
   label="View Project"
   class="btn--primary"
 %}
