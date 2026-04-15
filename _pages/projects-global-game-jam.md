@@ -1,6 +1,7 @@
 ---
 title: "Global game jam"
 layout: single
+classes: wide
 permalink: /projects-global-game-jam/
 sidebar:
   title: "Projects"
