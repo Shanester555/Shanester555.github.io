@@ -80,7 +80,7 @@ gallery_2D_game:
     caption: "Power"
 ---
 
-## Global game jam
+## Guns n' Growth
 I participated in the Global Game Jam 2026, going to the Ulster University Magee site. A week was spent developing a 2D horde survival game in Godot using the "mask" theme.
 {% include gallery id="gallery_global_game_jam" layout="third" thumb_height="180px" %}
 {% include button
@@ -89,7 +89,7 @@ I participated in the Global Game Jam 2026, going to the Ulster University Magee
   class="btn--primary"
 %}
 
-## Group game
+## Kackle Kastle
 A game I developed with 3 other students during my second semester of my first year at university. Over the course of 12 weeks we made a 2D horde survival game in unity, where you have to survive a rogue group of jesters attacking the castle's treasury.
 {% include gallery id="gallery_group_game" layout="third" thumb_height="180px" %}
 {% include button
@@ -98,7 +98,7 @@ A game I developed with 3 other students during my second semester of my first y
   class="btn--primary"
 %}
 
-## 2D game
+## Scrapyard Scramble
 A 2D game I developed for my first semester of my first year at university. It's a small scale metroidvania including a fully designed area with branching paths and plenty of secrets and permanent upgrades for the player to find.
 {% include gallery id="gallery_2D_game" layout="third" thumb_height="180px" %}
 {% include button
@@ -107,7 +107,7 @@ A 2D game I developed for my first semester of my first year at university. It's
   class="btn--primary"
 %}
 
-## 3D game
+## 3D art project
 A 3D game I developed for my first semester of my first year at university. It was made to show my skills greyboxxing a 3D environment as well as develop my skills with probuilder.
 {% include gallery id="gallery_3D_game" layout="third" thumb_height="180px" %}
 {% include button
