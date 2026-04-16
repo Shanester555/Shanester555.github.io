@@ -27,17 +27,12 @@ gallery_gameplay:
     caption: "Power"
 
 ---
+## Overview
+Guns n' Growth is a 2D horde survival with twin stick shooting where you must revitalise a desolate wasteland while fighting off mutated hordes of monsters approaching you.
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
-1. [Overview](#overview)
-2. [Roles](#roles)
-3. [Development](#development)
-4. [Link/Video](#link)
+## Info
+The project was solo developed by me in one week for the Global Game Jam 2026. The theme of the game jam was "mask", which I incorporated into the game by making a risk/reward mechanic where the player can take their mask off to increase their strength, but lose defense and survivability. All of the game's code done in gd.script and art was made by me.
 
-## 1. Overview {#overview}
-
-## 2. Roles {#roles}
-
-## 3. Development {#development}
-
-## 4. Link/Video {#link}
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+## Video
+{% include video id="ubKbeZNtQc0" provider="youtube" %}
