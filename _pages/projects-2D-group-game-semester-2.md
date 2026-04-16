@@ -10,21 +10,15 @@ sidebar:
 
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: assets/images/Screenshot 2026-04-16 115133.png
+    image_path: assets/images/Screenshot 2026-04-16 115133.png
     alt: "Gameplay 1"
-    title: "GGJ"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: assets/images/Screenshot 2026-04-16 115633.png
+    image_path: assets/images/Screenshot 2026-04-16 115633.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: assets/images/Screenshot 2026-04-16 115815.png
+    image_path: assets/images/Screenshot 2026-04-16 115815.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power"
 
 ---
 ## Overview
