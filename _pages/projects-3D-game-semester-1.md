@@ -32,4 +32,4 @@ gallery_gameplay:
 The project was developed over six weeks. It was my first time using any 3D modelling, this project being probuilder specifically. 
 
 ## Video
-{% include video id="SkQkDhqGwdr8" provider="youtube" %}
+{% include video id="wxaRW8TIIoo&list=PLqfhuZN1Q2US0BLx_oO6-SkQkDhqGwdr8&index=4" provider="youtube" %}
