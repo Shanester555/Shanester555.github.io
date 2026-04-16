@@ -28,11 +28,11 @@ gallery_gameplay:
 
 ---
 ## Overview
-Guns n' Growth is a 2D horde survival with twin stick shooting where you must revitalise a desolate wasteland while fighting off mutated hordes of monsters approaching you.
+Kackle Kastle is a 2D horde survival where you must defend the castle's treasury from a gang of rogue jesters.
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
 ## Info
-The project was solo developed by me in one week for the Global Game Jam 2026. The theme of the game jam was "mask", which I incorporated into the game by making a risk/reward mechanic where the player can take their mask off to increase their strength, but lose defense and survivability. All of the game's code done in gd.script and art was made by me.
+The project was developed by a small group of me and three other classmates. My main role was co-programmer where I focused on enemy AI and general mechanics. I also took the role of project lead where I handled most of the documents and organising meetings. I also developed trailers and videos for the project. The project was made over the course of twelve weeks in unity using C#.
 
 ## Video
 {% include video id="ubKbeZNtQc0" provider="youtube" %}
