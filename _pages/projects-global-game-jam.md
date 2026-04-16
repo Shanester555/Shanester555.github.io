@@ -34,7 +34,7 @@ Guns n' Growth is a 2D horde survival with twin stick shooting where you must re
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
 ## Info
-The project was solo developed by me in one week for the Global Game Jam 2026. The theme of the game jam was "mask", which I incorporated into the game by making a risk/reward mechanic where the player can take their mask off to increase their strength, but lose defense and survivability. All of the game's code done in gd.script and art was made by me.
+The project was solo developed by me in one week for the Global Game Jam 2026, where I used the Godot game engine for the first time. The theme of the game jam was "mask", which I incorporated into the game by making a risk/reward mechanic where the player can take their mask off to increase their strength, but lose defense and survivability. All of the game's code done in gd.script and art was made by me.
 
 ## Link
 <a href="https://globalgamejam.org/games/2026/growth-n-guns-0" target="_blank" rel="noopener noreferrer">Guns n' Growth - Global Game Jam Site</a>
