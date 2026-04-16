@@ -16,8 +16,6 @@ gallery_gameplay:
   - url: assets/images/Screenshot 2026-04-16 093059.png
     image_path: assets/images/Screenshot 2026-04-16 093059.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
   - url: assets/images/Screenshot 2026-04-16 093219.png
     image_path: assets/images/Screenshot 2026-04-16 093219.png
     alt: "Gameplay 3"
@@ -34,4 +32,4 @@ gallery_gameplay:
 The project was developed over six weeks. It was my first time using any 3D modelling, this project being probuilder specifically. 
 
 ## Video
-{% include video id="PLqfhuZN1Q2US0BLx" provider="youtube" %}
+{% include video id="oO6-SkQkDhqGwdr8&index" provider="youtube" %}
