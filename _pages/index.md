@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: ""
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
