@@ -10,34 +10,32 @@ sidebar:
 
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: assets/images/Screenshot 2026-04-16 124424.png
+    image_path: assets/images/Screenshot 2026-04-16 124424.png
     alt: "Gameplay 1"
-    title: "GGJ"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: assets/images/Screenshot 2026-04-16 123208.png
+    image_path: assets/images/Screenshot 2026-04-16 123208.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: assets/images/Screenshot 2026-04-16 123422.png
+    image_path: assets/images/Screenshot 2026-04-16 123422.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power"
+  - url: assets/images/Screenshot 2026-04-16 123450.png
+    image_path: assets/images/Screenshot 2026-04-16 123450.png
+    alt: "Gameplay 4"
+  - url: assets/images/Screenshot 2026-04-16 123422.png
+    image_path: assets/images/Screenshot 2026-04-16 123422.png
+    alt: "Gameplay 5"
+  - url: assets/images/Screenshot 2026-04-16 124338.png
+    image_path: assets/images/Screenshot 2026-04-16 124338.png
+    alt: "Gameplay 6"
 
 ---
+## Overview
+Scrapyard Scramble is a short 2D metroidvania where you have to explore an empty scrapyard and the surrounding factory to find enough gears to escape.
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
-1. [Overview](#overview)
-2. [Roles](#roles)
-3. [Development](#development)
-4. [Link/Video](#link)
+## Info
+This was a solo project done by me. It was my first major unity project done using C#. This project allowed me to test all of my skills ni game development, including programming, art and animation, level design, and music and sound design. This project was made over the course of twelve weeks. 
 
-## 1. Overview {#overview}
-
-## 2. Roles {#roles}
-
-## 3. Development {#development}
-
-## 4. Link/Video {#link}
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+## Video
+{% include video id="KpVsLsMOkMk" provider="youtube" %}
