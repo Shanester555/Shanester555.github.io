@@ -16,21 +16,26 @@ excerpt: "You can add text here."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - image_path: assets/images/Headshot.png
+    alt: "Profesional headshot"
+    title: "More about me"
+    excerpt: "General informaion about me and my skills"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/about-me/"
+  - image_path: assets/images/Screenshot 2026-03-19 141820.png
+    alt: "Scrapyard Scramble"
+    title: "Scrapyard Scramble"
+    excerpt: "Look through various projects I made in my own time and university"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
+    url: "/projects/"
+  - image_path: assets/images/Headshot.png
+    title: "Profesional Headshot"
+    excerpt: "Contact me through the website"
+    btn_label: "Contact Me"
+    btn_class: "btn--primary"
+    url: "/contact-me/"
 ---
 
 {% include feature_row id="intro" type="center" %}
