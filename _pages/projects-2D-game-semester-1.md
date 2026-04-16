@@ -22,8 +22,8 @@ gallery_gameplay:
   - url: assets/images/Screenshot 2026-04-16 123335.png
     image_path: assets/images/Screenshot 2026-04-16 123335.png
     alt: "Gameplay 4"
-  - url: assets/images/Screenshot 2026-04-16 123422.png
-    image_path: assets/images/Screenshot 2026-04-16 123422.png
+  - url: assets/images/Screenshot 2026-04-16 123450.png
+    image_path: assets/images/Screenshot 2026-04-16 123450.png
     alt: "Gameplay 5"
   - url: assets/images/Screenshot 2026-04-16 124338.png
     image_path: assets/images/Screenshot 2026-04-16 124338.png
