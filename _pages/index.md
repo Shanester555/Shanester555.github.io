@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 intro: 
-  - excerpt: 'I'm Shane Collum. I'm currently a university student studying game design and development. I'm passionate about making games as well as video editing.'
+  - excerpt: "I'm Shane Collum. I'm currently a university student studying game design and development. I'm passionate about making games as well as video editing."
 feature_row:
   - image_path: assets/images/Headshot.png
     alt: "Profesional headshot"
