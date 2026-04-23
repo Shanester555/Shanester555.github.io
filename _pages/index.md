@@ -11,10 +11,10 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 intro:
-  excerpt: "Contact me through the website"
-  btn_label: "Contact Me"
-  btn_class: "btn--primary"
-  url: "/contact-me/"
+  - excerpt: "Contact me through the website"
+    btn_label: "Contact Me"
+    btn_class: "btn--primary"
+    url: "/contact-me/"
 feature_row:
   - image_path: assets/images/Screenshot 2026-04-16 090427.png
     title: "Guns n' Growth"
