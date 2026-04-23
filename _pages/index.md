@@ -38,5 +38,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
+## Projects
 {% include feature_row %}
 
