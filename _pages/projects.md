@@ -12,72 +12,48 @@ gallery_global_game_jam:
   - url: assets/images/Screenshot 2026-04-16 090051.png
     image_path: assets/images/Screenshot 2026-04-16 090051.png
     alt: "Gameplay 1"
-    title: "GGJ"
-    caption: "Core loop"
   - url: assets/images/Screenshot 2026-04-16 090156.png
     image_path: assets/images/Screenshot 2026-04-16 090156.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
   - url: assets/images/Screenshot 2026-04-16 090427.png
     image_path: assets/images/Screenshot 2026-04-16 090427.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power"
 
 gallery_group_game:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: assets/images/Screenshot 2026-04-16 115133.png
     image_path: assets/images/Screenshot 2026-04-16 115133.png
     alt: "Grouping"
-    title: "Grouping"
-    caption: "Core loop"
   - url: assets/images/Screenshot 2026-04-16 115633.png
     image_path: assets/images/Screenshot 2026-04-16 115633.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
   - url: assets/images/Screenshot 2026-04-16 115815.png
     image_path: assets/images/Screenshot 2026-04-16 115815.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power"
 
 gallery_3D_game:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: assets/images/Screenshot 2026-04-16 092646.png
     image_path: assets/images/Screenshot 2026-04-16 092646.png
     alt: "3D"
-    title: "3D"
-    caption: "Core loop"
   - url: assets/images/Screenshot 2026-04-16 093059.png
     image_path: assets/images/Screenshot 2026-04-16 093059.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
   - url: assets/images/Screenshot 2026-04-16 093219.png
     image_path: assets/images/Screenshot 2026-04-16 093219.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power"
 
 gallery_2D_game:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: assets/images/Screenshot 2026-03-19 141820.png
     image_path: assets/images/Screenshot 2026-03-19 141820.png
     alt: "Gameplay 1"
-    title: "2D"
-    caption: "Core loop"
   - url: assets/images/Screenshot 2026-04-16 123335.png
     image_path: assets/images/Screenshot 2026-04-16 123335.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
   - url: assets/images/Screenshot 2026-04-16 123450.png
     image_path: assets/images/Screenshot 2026-04-16 123450.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power"
 ---
 
 ## Guns n' Growth
