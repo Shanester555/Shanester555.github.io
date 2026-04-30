@@ -35,7 +35,7 @@ Scrapyard Scramble is a short 2D metroidvania where you have to explore an empty
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
 ## Info
-This was a solo project done by me. It was my first major unity project done using C#. This project allowed me to test all of my skills ni game development, including programming, art and animation, level design, and music and sound design. This project was made over the course of twelve weeks. 
+This was a solo project done by me. It was my first major unity project done using C#. This project allowed me to test all of my skills in game development, including programming, art and animation, level design, and music and sound design. This project was made over the course of twelve weeks. 
 
 ## Video
 {% include video id="KpVsLsMOkMk" provider="youtube" %}
