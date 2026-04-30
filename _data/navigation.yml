@@ -17,8 +17,6 @@ main:
     url: /about-me/
   - title: "Contact Me"
     url: /contact-me/
-  - title: "Components"
-    url: /components/
  
 
 # Sidebar menu for the Projects page
