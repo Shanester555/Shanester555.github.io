@@ -29,6 +29,6 @@ skills:
 ---
 
 ## About Me
-I am a university student studying game design and development. I'm learning to use unity in the course, and am learning to use Godot in my own time. I am passionate about game design and am adamant to learn code. I also have a youtube channel which I edit all of my own videos and use the platform to talk about game design.
+I am a university student studying game design and development. I'm learning to use unity in the course, and am learning to use Godot in my own time. I am passionate about game design and am adamant to learn code. I also have a youtube channel which I edit all of my own videos and use the platform to talk about game design. <a href="[https://www.example.com](https://www.youtube.com/@The-Crafty-Mallard)" target="_blank" rel="noopener noreferrer">Link to my channel.</a>
 ## Skills
 {% include skills skills=page.skills %}
