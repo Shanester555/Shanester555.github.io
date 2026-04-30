@@ -29,4 +29,4 @@ Kackle Kastle is a 2D horde survival where you must defend the castle's treasury
 The project was developed by a small group of me and three other classmates. My main role was co-programmer where I focused on enemy AI and general mechanics. I also took the role of project lead where I handled most of the documents and organising meetings. I also developed trailers and videos for the project. The project was made over the course of twelve weeks in unity using C#.
 
 ## Video
-{% include video id="ubKbeZNtQc0" provider="youtube" %}
+{% include video id="grSDQENHljM" provider="youtube" %}
