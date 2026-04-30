@@ -18,7 +18,7 @@ skills:
     level_label: "Beginner"
   - name: "Godot"
     icon: "fas fa-fw fa-gamepad"
-    badges: ["gd.script"."Game Design"]
+    badges: ["gd.script","Game Design"]
     text: "Made a full game over a week for a game jam"
     level_label: "Beginner"
   - name: "Video editing"
