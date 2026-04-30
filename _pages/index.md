@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/Headshot.png
   actions:
     - label: "Download CV"
-      url: "assets/placeholder-2.png"
+      url: "assets/downloads/CV_Shane_Collum.pdf"
       target: "_blank"
 intro:
   - excerpt: "Contact me through the website"
