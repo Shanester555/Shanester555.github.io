@@ -48,29 +48,17 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Youtube" # Twitter link
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/@The-Crafty-Mallard"
       target: "_blank"
-    - label: "Facebook" # Facebook link
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn" # Facebook link
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/shane-collum-09876b3ba/"
       target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
-      # url:
-      target: "_blank"
-    - label: "GitLab" # GitLab link
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-      target: "_blank"
-    - label: "Bitbucket" # Bitbucket link
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-      target: "_blank"
-    - label: "Instagram" # Instagram link
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/Shanester555"
       target: "_blank"
   since: "2026" # Year shown in the footer
 
